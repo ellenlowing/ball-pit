@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leapmotionHands", "Assembly-CSharp.csproj", "{754BAB7C-7C94-D2FE-64AC-9A1BF3356862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leapmotionHands", "Assembly-CSharp-Editor.csproj", "{A983E8BF-5401-F345-6A7B-D9F2E9FD49B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754BAB7C-7C94-D2FE-64AC-9A1BF3356862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754BAB7C-7C94-D2FE-64AC-9A1BF3356862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754BAB7C-7C94-D2FE-64AC-9A1BF3356862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754BAB7C-7C94-D2FE-64AC-9A1BF3356862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A983E8BF-5401-F345-6A7B-D9F2E9FD49B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A983E8BF-5401-F345-6A7B-D9F2E9FD49B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A983E8BF-5401-F345-6A7B-D9F2E9FD49B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A983E8BF-5401-F345-6A7B-D9F2E9FD49B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
